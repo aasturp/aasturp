@@ -5,7 +5,7 @@ I am a software developer that specializes in backend technologies.
 
 - 👁️‍🗨️ My portfolio:  
 - 💻 I’m currently working on [private repo]
-- 📖 I’m currently learning more about kubernetes
+- 📚 I’m currently learning more about kubernetes
 - ✉️ Reach me at: aasturp@gmail.com
 
 #### Skills and Technologies 
