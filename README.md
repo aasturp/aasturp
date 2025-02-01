@@ -3,8 +3,7 @@
 ### Software Developer
 I am a software developer that specializes in backend technologies.
 
-- 👁️‍🗨️ My portfolio:  
-- 💻 I’m currently working on [private repo]
+- 👁️‍🗨️ My portfolio: [adna.site](https://adna.site/)
 - 📚 I’m currently learning more about kubernetes
 - ✉️ Reach me at: aasturp@gmail.com
 
