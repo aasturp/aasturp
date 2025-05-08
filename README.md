@@ -4,7 +4,7 @@
 I am a software developer that specializes in backend technologies.
 
 - 👁️‍🗨️ My portfolio: [adna.site](https://adna.site/)
-- 📚 I’m currently learning more about kubernetes
+- 📚 I’m currently learning more about kubernetes and cybersecurity.
 - ✉️ Reach me at: aasturp@gmail.com
 
 #### Skills
