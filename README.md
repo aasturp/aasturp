@@ -1,7 +1,5 @@
-## Hi there! I'm Adna
-
-### Software Developer
-I am a software developer that specializes in backend technologies.
+### Hi, I'm Adna
+I am a software developer
 
 - 👁️‍🗨️ My portfolio: [adna.site](https://adna.site/)
 - 📚 I’m currently learning more about kubernetes and cybersecurity.
