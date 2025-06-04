@@ -1,5 +1,5 @@
 ### Hi, I'm Adna
-I am a software developer
+I'm a software developer.
 
 - 👁️‍🗨️ My portfolio: [adna.site](https://adna.site/)
 - 📚 I’m currently learning more about kubernetes and cybersecurity.
