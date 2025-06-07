@@ -8,5 +8,7 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
   </div>
 </div>
