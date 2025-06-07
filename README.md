@@ -4,6 +4,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=visualstudio&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
