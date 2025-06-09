@@ -12,4 +12,8 @@
     <img alt="Azure" src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
   </div>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyosh11&layout=compact&bg_color=1a1a1a&text_color=d9d9d9&title_color=87CEEB&border_color=333333" alt="langs" />
+    <br/>
+  </p>
 </div>
