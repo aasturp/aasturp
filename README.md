@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/69/b2/88/69b28856241ddc9ee1b856faea64db05.gif" width="500">
+<img src="https://i.pinimg.com/originals/69/b2/88/69b28856241ddc9ee1b856faea64db05.gif" width="400">
 <div >
   <div>
     <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
