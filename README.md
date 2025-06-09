@@ -1,5 +1,5 @@
-<img align="right" src="https://i.pinimg.com/originals/69/b2/88/69b28856241ddc9ee1b856faea64db05.gif" width="300">
-<div align="left">
+<img src="https://i.pinimg.com/originals/69/b2/88/69b28856241ddc9ee1b856faea64db05.gif" width="500">
+<div >
   <div>
     <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=visualstudio&logoColor=white" />
